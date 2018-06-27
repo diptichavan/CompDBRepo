@@ -1,0 +1,6 @@
+bin
+obj
+.idea/
+screenshots/
+logs/
+ExtentReport.html
